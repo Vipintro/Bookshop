@@ -1,0 +1,4 @@
+/.env
+book_shop/__pycache__/
+information/__pycache__/
+information/migrations/__pycache__/
