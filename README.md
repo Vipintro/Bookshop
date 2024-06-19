@@ -16,11 +16,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
     ```
-    git clone https://github.com/sonkate/bookshop
+    git clone https://github.com/Vipintro/Bookshop
     ```
 2. Navigate to the project directory
     ```
-    cd bookshop
+    cd Bookshop
     ```
 3. Create a virtual environment
     ```
